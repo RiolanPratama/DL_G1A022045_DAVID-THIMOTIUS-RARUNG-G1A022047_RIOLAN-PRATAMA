@@ -1,1 +1,7 @@
-# DL_G1A022045_DAVID-THIMOTIUS-RARUNG-G1A022047_RIOLAN-PRATAMA
+# UAS DEEP LEARNING
+Nama anggota kelompok:
+1. David Thimotius Rarung (G1A022047)
+2. Riolan Pratama (G1A022047)
+
+Dosen Pengampu:
+1. Ir. Arie Vatresia, S.T., M.T.I., Ph.D., IPP
